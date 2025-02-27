@@ -1,0 +1,4 @@
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/build/CMakeFiles/edit_cache.dir
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/build/CMakeFiles/rebuild_cache.dir
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/build/CMakeFiles/tcp_server_file_transfer.dir
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/build/CMakeFiles/tcp_client_file_transfer.dir

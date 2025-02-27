@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tcp_server_file_transfer.dir/src/tcp_server_file_transfer_impl.cpp.o CMakeFiles/tcp_server_file_transfer.dir/src/tcp_server_file_transfer_main.cpp.o  -o tcp_server_file_transfer  -lstdc++ -lpthread 

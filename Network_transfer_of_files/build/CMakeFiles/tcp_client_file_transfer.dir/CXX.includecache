@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tcp_client_file_transfer.h
+iostream
+-
+fstream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+unistd.h
+-
+netdb.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+string
+-
+
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/src/tcp_client_file_transfer_impl.cpp
+tcp_client_file_transfer.h
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/src/tcp_client_file_transfer.h
+
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/src/tcp_client_file_transfer_main.cpp
+tcp_client_file_transfer.h
+/home/fcy/C++项目/LinuxNetworkProgramming/Network_transfer_of_files/src/tcp_client_file_transfer.h
+
